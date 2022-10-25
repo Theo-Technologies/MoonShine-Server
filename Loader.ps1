@@ -1,1 +1,1 @@
-New-Service -Name "MoonShine" -BinaryPathName "C:\MoonShine-Server-master\tools\sunshinesvc.exe"
+New-Service -Name "MoonShine" -BinaryPathName "C:\MoonShine-Server\MoonShine-Server-master\tools\sunshinesvc.exe"
